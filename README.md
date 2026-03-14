@@ -17,7 +17,7 @@ Images are distributed as a single ZIP file via GitHub Releases:
 
 ## Usage
 
-These images are automatically downloaded by the Persona Companion app when users first launch the app (release builds only). Debug builds include images bundled in the APK.
+These images are automatically downloaded by the Persona Companion app when users first launch the app.
 
 ## License
 
